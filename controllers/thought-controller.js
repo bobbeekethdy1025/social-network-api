@@ -1,3 +1,4 @@
+// made with the help of my peers some code was recycled from class activities
 const {Thought, User} = require('../models');
 
 module.exports = {

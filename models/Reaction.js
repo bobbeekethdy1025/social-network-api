@@ -1,3 +1,4 @@
+// made with the help of my peers some code was recycled from class activities
 const {Schema, Types} = require('mongoose');
 const moment = require('moment');
 

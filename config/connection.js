@@ -1,3 +1,4 @@
+// made with the help of my peers some code was recycled from class activities
 const mongoose = require('mongoose');
 
 mongoose.connect('mongodb://127.0.0.1:27017/socialNetworkDB', {
