@@ -6,7 +6,7 @@
 
 ## Description
 
-social-network-api is the repository for the 15th challenge we were given in this bootcamp. Above this text you will find a GIF showcasing the functionality of all routes within the code.
+social-network-api is the repository for the 18th challenge we were given in this bootcamp. Above this text you will find a GIF showcasing the functionality of all routes within the code.
 
 Within the repository you will all the files that were needed in order to have the application fully functioning.
 
