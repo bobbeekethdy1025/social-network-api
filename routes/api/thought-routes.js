@@ -1,6 +1,5 @@
 // made with the help of my peers some code was recycled from class activities
 const router = require('express').Router();
-
 const {
     getThoughts, getOneThought, createThought, updateThought, deleteThought, createReaction, deleteReaction,
 } = require('../../controllers/thought-controller');
