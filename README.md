@@ -1,8 +1,22 @@
 # social-network-api
 
-# GIF showing all testing done through Insomnia
+# GIF showing Users testing done through Insomnia
 
-![alt text](./assets/ezgif.com-gif-maker%20(8).gif)
+![alt text](./assets/User%20Testing%20Insomnia.gif)
+
+# GIF showing Thoughts testing done through Insomnia
+
+![alt text](./assets/Thought%20Test%20Insomnia.gif)
+
+# GIF showing Friends testing through Insomnia
+
+![alt text](./assets/Friends%20Test%20Insomnia.gif)
+
+## Links to all videos
+
+Users https://drive.google.com/file/d/11VSU-OTuIbxwN9BIK-LqieSUFJTDnZPR/view
+Thoughts https://drive.google.com/file/d/15z2yLufIxU2VoEeySSLQCcCqr8zYzXcn/view
+Friends https://drive.google.com/file/d/1zf5K73Vm07YJfY4MVwwmOw6ztTK8u0zM/view
 
 ## Description
 
